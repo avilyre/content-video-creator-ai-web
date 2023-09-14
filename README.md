@@ -38,6 +38,6 @@ Then run the following command
 All ready!
 You can view the project at the url shown in your command line
 
-ATTENTION: Don't forget to clone and run the server so that everything works
+See our CVC.AI Backend: https://github.com/AvilyRs/content-video-creator-ai-server
 
 If there is anything you can help with the project, feel free to contribute ;)
