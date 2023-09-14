@@ -1,4 +1,4 @@
-# :robot: Content Video Creator AI
+# :robot: Content Video Creator AI (Frontend)
 
 An application that can help content creators when generating creative titles and descriptions through artificial intelligence.
 
